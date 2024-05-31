@@ -1,0 +1,6 @@
+selenium
+pandas
+os
+time
+python-dotenv
+streamlit

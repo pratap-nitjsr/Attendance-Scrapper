@@ -1,6 +1,5 @@
 selenium
 pandas
-os
 python-time
 python-dotenv
 streamlit
